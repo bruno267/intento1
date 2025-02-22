@@ -13,6 +13,6 @@ import java.util.ArrayList;
 public class Tipoempleado {
     
     public ArrayList Empleado;
-    
+    //que corran la bola juagan en francia pero son todos de angola
 }
 
